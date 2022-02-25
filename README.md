@@ -11,7 +11,7 @@ Description for PART 2 of the assignment will be added here
 ## Flix Part 1
 
 ### User Stories
-`TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after checking off completed user stories)
+`TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. 
 
 #### REQUIRED (10pts)
 - [X] (2pts) User sees an app icon on the home screen and a styled launch screen.
