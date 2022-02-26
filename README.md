@@ -21,7 +21,7 @@ Description for PART 2 of the assignment will be added here
 
 ### App Walkthrough GIF
 
-<img src='https://recordit.co/vTdtm2XZVo.gif'/><br>
+<img src='https://recordit.co/SQCLg6gOW6.gif'/><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
