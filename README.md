@@ -21,11 +21,11 @@ Description for PART 2 of the assignment will be added here
 
 ### App Walkthrough GIF
 
-##### Testing on iphone 13 Pro Max
+**Testing on iphone 13 Pro Max**
 
 <img src='https://recordit.co/SQCLg6gOW6.gif'/><br>
 
-##### Testing on iphone 8 
+**Testing on iphone 8**
 
 <img src='https://recordit.co/94Gv4kIEzb.gif'/><br>
 
