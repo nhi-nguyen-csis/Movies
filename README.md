@@ -29,5 +29,9 @@ Description for PART 2 of the assignment will be added here
 
 <img src='https://recordit.co/94Gv4kIEzb.gif'/><br>
 
+**Testing on iphone 11**
+
+<img src='https://recordit.co/ewYiHfsheA.gif'/><br>
+
 ### Notes
 Describe any challenges encountered while building the app.
