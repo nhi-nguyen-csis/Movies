@@ -24,5 +24,7 @@ Description for PART 2 of the assignment will be added here
 
 <img src="YOUR_GIF_URL_HERE" width=250><br>
 
+<img src='https://recordit.co/sLpQcrQWB6'/><br>
+
 ### Notes
 Describe any challenges encountered while building the app.
