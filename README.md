@@ -23,11 +23,11 @@ Description for PART 2 of the assignment will be added here
 
 **Testing on iphone 13 Pro Max**
 
-<img src='https://recordit.co/x6uCAz1BUs.gif'/><br>
+<img src='https://recordit.co/nm4qPaAwxB.gif'/><br>
 
 **Testing on iphone 8**
 
-<img src='https://recordit.co/U0ojm0DLuJ.gif'/><br>
+<img src='https://recordit.co/ZlO5uUuCCG.gif'/><br>
 
 **Testing on iphone 11**
 
