@@ -31,6 +31,9 @@ Description for PART 2 of the assignment will be added here
 
 ### App Walkthrough GIF
 
+**Testing part 2**
+<img src='https://recordit.co/PCK3ccYEWF.gif'/><br>
+
 **Testing on iphone 13 Pro Max**
 
 <img src='https://recordit.co/nm4qPaAwxB.gif'/><br>
