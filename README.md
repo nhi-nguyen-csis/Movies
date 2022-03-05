@@ -33,7 +33,7 @@ Description for PART 2 of the assignment will be added here
 
 **Testing part 2**
 
-<img src='https://recordit.co/PCK3ccYEWF.gif'/><br>
+<img src='https://recordit.co/MFCZzDLxuA.gif'/><br>
 
 **Testing on iphone 13 Pro Max**
 
