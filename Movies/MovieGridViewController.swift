@@ -61,5 +61,37 @@ class MovieGridViewController: UIViewController, UICollectionViewDataSource, UIC
         
         return cell
     }
+    
+    // this's a special func. It's called when you're leaving your screen and you
+    // want to prepare for the next screen - preparation for sending data
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        // 2 tasks needed:
+        // 1. Find the selected movie
+        // 2. Pass the selected movie to the details view controller
+        // TASK 1: find the selected movie, which one is tapped
+        // - sender is the cell that is being tapped
+        // in the parameter, sender is default Any type
+        // so we need to let apple nows it's actually a UITableViewCell
+        let cell = sender as! UICollectionViewCell
+        // need to send what's the indexpath
+        let indexPath = collectionView.indexPath(for: cell)!
+        // get the selected movie
+        let movie = movies[indexPath.row]
+        // TASK 2: pass the selected movie to the MovieGridDetailsViewController
+        // we need to cast to MovieGridDetailsViewController (the destination) as
+        // it'll give me a generic UIViewController, which won't give me
+        // access to the movie property I want
+        let detailsViewController = segue.destination as! MovieDetailsViewController
+        // the movie on the right is the one we declare in this func
+        detailsViewController.movie = movie
+        
+        // when we transition deselect table cell
+        // without this line, if you go back to the previous screen
+        // the selected row is highlighted, and we don't want it
+        // to be highlighted
+        collectionView.deselectItem(at: indexPath, animated: true)
+        //testing
+        print("Loading GRID DETAIL VIEW CONTROLLER")
+    }
 
 }
